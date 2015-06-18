@@ -1,4 +1,4 @@
-# metalsmith-filter
+# metalsmith-filter [![Build Status](https://travis-ci.org/mrajo/metalsmith-filter.svg)](https://travis-ci.org/mrajo/metalsmith-filter)
 
 > A Metalsmith plugin for filtering source files
 
