@@ -9,6 +9,12 @@ instead of [minimatch](https://github.com/isaacs/minimatch), you can use it as a
 replacement for `Metalsmith.ignore` for multiple patterns instead of calling
 ignore multiple times.
 
+## Install
+
+```
+npm install metalsmith-filter
+```
+
 ## Usage
 
 Simply pass a single pattern or array of patterns, à la [multimatch](https://github.com/sindresorhus/multimatch).
